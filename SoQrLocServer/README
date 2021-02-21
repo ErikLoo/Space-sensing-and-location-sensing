@@ -1,0 +1,4 @@
+SoQrPCServer works on a PC and controls which SoQr client unit to probe or listen. 
+
+It communicates with SoQr clients via TCP/IP. 
+
